@@ -1,8 +1,8 @@
-- `👋 Hi, I'm Tazbid.`
-- `🎓 I'm currently doing my undergrad in Computer Science and Engineering (CSE) at BRAC University.`
-- `📫 How to reach me ... well, you can sent me email if you want to contact with me.`
-- `📧 md.tazbid.hasan@g.bracu.ac.bd`
-- `Also, Here's my LinkedIn profile :` [`MD. TAZBID HASAN`](https://www.linkedin.com/in/md-tazbid-hasan/)
+- 👋 Hi, I'm `Tazbid`.
+- 🎓 I'm currently doing my undergrad in Computer Science and Engineering (CSE) at BRAC University.
+- 📫 How to reach me ... well, you can sent me email if you want to contact with me.
+- 📧 `md.tazbid.hasan@g.bracu.ac.bd`
+- Also, Here's my LinkedIn profile : [`MD. TAZBID HASAN`](https://www.linkedin.com/in/md-tazbid-hasan/)
 
 
 <!---
@@ -14,4 +14,4 @@
 </p>
 <br>
 
-`Happy Coding!`
+Happy Coding!👨‍💻
