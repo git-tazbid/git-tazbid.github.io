@@ -13,6 +13,18 @@
 <a href="https://discordapp.com/users/1020411893044740197" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/3349ccc8-0591-48d2-a9d8-0689e1c40f5c" alt="my discord" height="60" width="60" /></a>  
 </p>
 
-<br>
+---
 
-Happy Coding! </>
+<details>
+<summary></summary>
+I'll add something here later
+<details>
+<summary></summary>
+I'll add something here later
+<details>
+<summary></summary>
+I'll add something here later
+<details>
+<summary></summary>
+I'll add something here later
+</details>
