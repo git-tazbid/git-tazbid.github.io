@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/tazbid.afk/" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/2c128e5b-0a1e-4c1b-8ed5-ed6d4cdd9b0b" alt="my insta" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/md-tazbid-hasan/" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/00bf23d2-c767-49c9-b563-2d2f0aaf5c00" alt="my linkedin" height="50" width="50" /></a>
 <a href="https://github.com/git-tazbid" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/29deb3cc-5511-4178-b9e5-1875e7612f6a" alt="my github" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/1020411893044740197" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/3349ccc8-0591-48d2-a9d8-0689e1c40f5c" alt="my discord" height="60"  /></a>  
+<a href="https://discordapp.com/users/1020411893044740197" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/3349ccc8-0591-48d2-a9d8-0689e1c40f5c" alt="my discord" height="60" width="60" /></a>  
 </p>
 
 <br>
