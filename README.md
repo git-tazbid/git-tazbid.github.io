@@ -18,18 +18,3 @@
 
 Happy Coding! </>
 
-<br>
-
-<details>
-<summary></summary>
-I'll add something here later
-<details>
-<summary></summary>
-I'll add something here later
-<details>
-<summary></summary>
-I'll add something here later
-<details>
-<summary></summary>
-I'll add something here later
-</details>
