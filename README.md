@@ -18,3 +18,8 @@
 
 Happy Coding! </>
 
+<br>
+<br>
+<p align="center">
+<img src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/b62414e4-d1b9-4503-accf-4628bdf1b2e3" alt="car moving" />
+</p>
