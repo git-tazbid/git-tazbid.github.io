@@ -1,9 +1,3 @@
-<br>
-
-<p align="center">
-<img src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/01514a7f-985a-4d6a-ad4f-3e8b87502438" alt="cat watching outside the window" height="200" weight="150" />
-</p>
-
 - 👋 Hi, I'm `Tazbid`, a highly motivated and enthusiastic individual with a passion for technology and programming.
 - 🎓 I'm currently doing my undergrad in `Computer Science and Engineering` at `BRAC University`.
 - 📫 How to reach me ... well, there are multiple ways to connect with me:
@@ -25,3 +19,19 @@ Happy Coding! </>
 
 <br>
 <br>
+<br>
+<details>
+<summary>DO NOT CLICK HERE</summary>
+  <br>
+<details>
+<summary>Hey I said DO NOT CLICK!</summary>
+  <br>
+<details>
+<summary>ONE MORE CLICK AND YOU WILL REGRET INSTANTLY</summary>
+  <br>
+<details>
+<summary>Boo! What?!! Nothing Happened!</summary>
+<img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/e31faf41-8c50-474a-a371-c043778652bb">
+<h1> YOU'VE BEEN RICKROLLED! </h1>  
+</details>
+
