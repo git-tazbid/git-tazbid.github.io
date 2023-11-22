@@ -1,8 +1,13 @@
+<p align="center">
+<img src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/01514a7f-985a-4d6a-ad4f-3e8b87502438" alt="cat watching outside the window" height="250" weight="200" />
+</p>
+<br>
+
+
 - 👋 Hi, I'm `Tazbid`, a highly motivated and enthusiastic individual with a passion for technology and programming.
 - 🎓 I'm currently doing my undergrad in `Computer Science and Engineering` at `BRAC University`.
 - 📫 How to reach me ... well, there are multiple ways to connect with me:
-  
-<br>
+<br>  
 
 <p align="center">
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlFlbjZmhDsRxkqvCtVvtrZXBgDRNHHMKVNPZRFSGSPKHCFvjWNfkWSqXGLjbLHcJgfMnV" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/c6f40ec9-95ea-41f4-93f9-3c0cc62964a4" alt="Redirecting to e-mail me" height="50" width="50" /></a>
@@ -20,6 +25,3 @@ Happy Coding! </>
 
 <br>
 <br>
-<p align="center">
-<img src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/b62414e4-d1b9-4503-accf-4628bdf1b2e3" alt="car moving" />
-</p>
