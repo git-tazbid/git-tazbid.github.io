@@ -1,8 +1,8 @@
+<br>
+
 <p align="center">
 <img src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/01514a7f-985a-4d6a-ad4f-3e8b87502438" alt="cat watching outside the window" height="250" weight="200" />
 </p>
-<br>
-
 
 - 👋 Hi, I'm `Tazbid`, a highly motivated and enthusiastic individual with a passion for technology and programming.
 - 🎓 I'm currently doing my undergrad in `Computer Science and Engineering` at `BRAC University`.
