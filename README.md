@@ -15,23 +15,7 @@
 
 ---
 
-Happy Coding! </>
-
-<br>
-<br>
-<br>
-<details>
-<summary>DO NOT CLICK HERE</summary>
-  <br>
-<details>
-<summary>Hey I said DO NOT CLICK!</summary>
-  <br>
-<details>
-<summary>ONE MORE CLICK AND YOU WILL REGRET INSTANTLY</summary>
-  <br>
-<details>
-<summary>Boo! What?!! Nothing Happened!</summary>
+<p align="center">
 <img align="center" src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif">
-<h1> YOU'VE BEEN RICKROLLED! </h1>  
-</details>
+</p>
 
