@@ -31,7 +31,7 @@ Happy Coding! </>
   <br>
 <details>
 <summary>Boo! What?!! Nothing Happened!</summary>
-<img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/e31faf41-8c50-474a-a371-c043778652bb">
+<img align="center" src="https://media1.tenor.com/m/gH3l9iIQaAkAAAAd/anime-frieren.gif">
 <h1> YOU'VE BEEN RICKROLLED! </h1>  
 </details>
 
