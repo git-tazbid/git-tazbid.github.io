@@ -2,7 +2,7 @@
 - 🎓 I'm currently doing my undergrad in `Computer Science and Engineering` at `BRAC University`.
 - 📫 How to reach me ... well, there are multiple ways to connect with me:
 <br>  
-
+<br>
 <p align="center">
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=tazbid.hasan75@gmail.com" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/c6f40ec9-95ea-41f4-93f9-3c0cc62964a4" alt="Redirecting to e-mail me" height="50" width="50" /></a>
 <a href="https://www.facebook.com/tazbid.afk" target="blank"><img align="center" src="https://github.com/git-tazbid/git-tazbid.github.io/assets/115063167/b7aa1a23-b82c-46b8-8e83-c0c19f49eea9" alt="my facebook" height="50" width="50" /></a>
